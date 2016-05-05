@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TextFactory_Example', :exclusive => true do
+  pod 'TextFactory', :path => '../'
+end
+
+target 'TextFactory_Tests', :exclusive => true do
+  pod 'TextFactory', :path => '../'
+
+  
+end
