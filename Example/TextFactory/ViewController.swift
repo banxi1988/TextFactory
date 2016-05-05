@@ -7,11 +7,17 @@
 //
 
 import UIKit
+import TextFactory
+
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+      let text = AttributedText(text: "banxi")
+        .textColor(UIColor.darkTextColor())
+            .font(UIFont.systemFontOfSize(15))
+        .strikethroughStyle(.StyleSingle)
         // Do any additional setup after loading the view, typically from a nib.
     }
 

@@ -1,0 +1,16 @@
+PODS:
+  - TextFactory (0.1.0)
+
+DEPENDENCIES:
+  - TextFactory (from `../`)
+
+EXTERNAL SOURCES:
+  TextFactory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TextFactory: ae22b36f0775a3fee9d716d14c07297ecd7090cf
+
+PODFILE CHECKSUM: 7535e930c6bf962eb15f6c6fe6d4a1342dc07201
+
+COCOAPODS: 1.0.0.rc.2

@@ -1,0 +1,19 @@
+{
+  "name": "TextFactory",
+  "version": "0.1.0",
+  "summary": "A Wrapper for iOS NSAttributeString",
+  "description": "A Wrapper for iOS NSAttributeString, add some convinent method",
+  "homepage": "https://github.com/banxi1988/TextFactory",
+  "license": "MIT",
+  "authors": {
+    "banxi1988": "banxi1988@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/banxi1988/TextFactory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TextFactory/Classes/**/*"
+}
